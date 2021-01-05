@@ -1,0 +1,241 @@
+.header-wrapper {
+    background: slateblue;
+}
+
+.header-top-view-wrapper {
+    background: skyblue;
+}
+
+.header-top {
+    background: skyblue;
+    width: 940px;
+    height: 70px;
+}
+
+.logo-searchbar-wrappper {
+    background: blueviolet;
+    float: left;
+    height: 70px;
+    width: 590px;
+}
+
+.logo-wrapper {
+    background: burlywood;
+    float: left;
+    width: 225px;
+    height: 70px;
+}
+
+.searchbar-wrapper {
+    background:cadetblue;
+    float: right;
+    height: 70px;
+    width: 365px;
+}
+
+.username-navbar-wrapper {
+    background: skyblue;
+    float: right;
+    height: 30px;
+    width: 140px;
+    padding: 20px 0px 0px 0px;
+}
+
+.username-wrapper {
+    background: blanchedalmond;
+    height: 25px;
+    width: 140px;
+}
+
+.user-navbar-wrapper {
+    background: chartreuse;
+    height: 25px;
+    width: 140px;
+}
+
+.header-bottom-view-wrapper {
+    background: gray;
+}
+
+.header-bottom {
+    background: aqua;
+    width: 940px;
+    height: 30px;
+}
+
+.navbar-wrapper {
+    background: chocolate;
+    float: left;
+    width: 640px;
+    height: 30px;
+}
+
+.navbar-right-wrapper {
+    background: cornflowerblue;
+    float: right;
+    width: 300px;
+    height: 30px;
+}
+
+.body-wrapper {
+    background: whitesmoke;
+}
+
+.body-view-wrapper {
+    background: whitesmoke;
+    width: 940px;
+    height: 475px;
+    padding: 25px 0px 25px 0px;
+}
+
+.body-left-wrapper {
+    background: darkmagenta;
+    float: left;
+    width: 195px;
+    height: 475px;
+}
+
+.body-left-header-content-wrapper {
+    background: powderblue;
+}
+
+.body-left-header-wrapper {
+    background: mediumaquamarine;
+    height: 35px;
+}
+
+.body-left-content-wrapper {
+    background: navajowhite;
+}
+
+.left-content-wrapper {
+    background: orchid;
+    float: left;
+    width: 80%;
+    height: 35px;
+}
+
+.body-right-image-wrapper {
+    background: olive;
+    float: right;
+    width: 20%;
+    height: 35px;
+}
+
+.body-right-wrapper {
+    background: whitesmoke;
+    float: right;
+    width: 718px;
+    height: 475px;
+}
+
+.body-main-wrapper {
+    background: firebrick;
+    float: left;
+    width: 520px;
+    height: 450px;
+}
+
+.main-top-wrapper {
+    background: honeydew;
+    height: 50px;
+    width: 100%;
+}
+
+.main-bottom-wrapper {
+    background: hotpink;
+    height: 400px;
+    width: 100%;
+}
+
+.body-navbar-wrapper {
+    background: indianred;
+    height: 100px;
+}
+
+.body-header-wrapper {
+    background: lavender;
+    height: 50px;
+}
+
+.body-tabs-wrapper {
+    background: khaki;
+    height: 50px;
+}
+
+.body-content-wrapper{
+    background: indigo;
+    height: 300px;
+    
+}
+
+.content-wrapper {
+    background: lawngreen;
+    height: 315px;
+    padding: 5px;
+}
+
+.content-left-wrapper {
+    background: lightpink;
+    float: left;
+    height: 50px;
+    width: 55px;
+}
+
+.content-right-wrapper {
+    background: maroon;
+    height: 50px;
+    float: right;
+    width: 450px;
+}
+
+.body-rightbar-wrapper {
+    background: fuchsia;
+    float: right;
+    width: 178px;
+    height: 475px;
+}
+
+.body-right-header-content-wrapper {
+    background: purple;
+}
+
+.body-right-header-wrapper {
+    background: palegreen;
+    height: 35px;
+}
+
+.body-right-content-wrapper {
+    background: palevioletred;
+    height: 35px;
+}
+
+.right-content-wrapper {
+    background: plum;
+    height: 35px;
+}
+
+.footer-wrapper {
+    background: gray;
+}
+
+
+.footer-view-wrapper {
+    background: orange;
+    width: 940px;
+    height: 30px;
+}
+
+.footer-left-wrapper {
+    background: gold;
+    float: left;
+    height: 30px;
+    width:  860px;
+}
+
+.footer-right-wrapper {
+    background: orangered;
+    float: right;
+    height: 30px;
+    width: 80px;
+}
